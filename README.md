@@ -1,4 +1,4 @@
-# rust-bevy-ping - simple ball game with rust and pygame
+# rust-bevy-ping - simple ball game with rust and bevy
 
 I made a simple game with rust and bevy
 
